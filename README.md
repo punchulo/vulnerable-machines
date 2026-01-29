@@ -1,2 +1,7 @@
-# vulnerable-machines
-Writeups y notas de máquinas vulnerables (aprendizaje ofensivo)
+Repositorio de aprendizaje en ciberseguridad ofensiva.
+
+Incluye:
+- Máquinas vulnerables
+- Proceso de enumeración
+- Explotación básica
+- Aprendizajes
