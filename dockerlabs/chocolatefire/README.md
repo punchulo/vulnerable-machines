@@ -1,3 +1,5 @@
+# ChocolateFire
+
 **Plataforma:** DockerLabs  
 **Sistema:** Linux  
 **Dificultad:** Media  
@@ -69,5 +71,6 @@ El objetivo de la máquina queda así completamente cumplido.
 
 Se incluye un PDF con el proceso detallado y capturas utilizadas durante la
 resolución de la máquina, como apoyo al aprendizaje.
+- [ChocolateFire.pdf](Chocolate%20Fire.pdf)
 
 ⚠️ Realizado con fines educativos y en un entorno controlado.
