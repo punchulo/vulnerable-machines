@@ -4,8 +4,6 @@
 **OS:** Linux  
 **Category:** Web Exploitation (SSTI) → Credential Exposure → Privilege Escalation
 
-🔗 [Ver como web](https://pablogbl.github.io/vulnerable-machines/dockerlabs/pipepwned/) · [Ver walkthrough como web](https://pablogbl.github.io/vulnerable-machines/dockerlabs/pipepwned/WALKTHROUGH.html)
-
 ---
 
 ## Overview
