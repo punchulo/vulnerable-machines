@@ -4,6 +4,8 @@
 **OS:** Linux  
 **Category:** Web Exploitation (WordPress)
 
+🔗 [Ver como web](https://pablogbl.github.io/vulnerable-machines/dockerlabs/walkingcms/) · [Ver walkthrough como web](https://pablogbl.github.io/vulnerable-machines/dockerlabs/walkingcms/WALKTHROUGH.html)
+
 ---
 
 ## Overview

@@ -18,6 +18,7 @@ No busco hacer guías perfectas ni copiar soluciones. El objetivo es practicar, 
 | [ChocolateFire](dockerlabs/chocolatefire) | DockerLabs | Web Exploitation | Openfire 4.7.4, CVE-2023-32315, bypass de autenticación |
 | [BreakMySSH](dockerlabs/Breakmyssh) | DockerLabs | Enumeración y fuerza bruta SSH | Enumeración de usuarios SSH con Metasploit, fuerza bruta con Hydra |
 | [TheDog](dockerlabs/TheDog) | DockerLabs | Web Exploitation (Apache 2.4.49) & Privilege Escalation | Apache 2.4.49 RCE, esteganografía (stegsnow), inyección de comandos, credenciales hardcodeadas |
+| [PipePwned](dockerlabs/PipePwned) | DockerLabs | Web Exploitation (SSTI) → Escalada de privilegios | SSTI en Jinja2 (`render_template_string`), RCE, credenciales SSH en `.env`, escalada vía runner root con directorio escribible por grupo |
 
 ---
 
